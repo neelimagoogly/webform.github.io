@@ -1,0 +1,30 @@
+.style{
+    color:black;
+    text-align: center;
+}
+.options{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+}
+
+.form-floating{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.form-control{
+    margin: auto;
+    width: 90%;
+    border: 3px;
+    padding: 10px;
+}
+.d-grid{
+    margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 10px;
+}

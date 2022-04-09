@@ -1,6 +1,16 @@
+body{
+    background-color: aquamarine;
+}
 .style{
+    width: 400px;
+    height: 50px;
+    margin: 100px auto;
+    position: relative;
     color:black;
     text-align: center;
+    background-color: green;
+    top:0px;
+    
 }
 .options{
     margin: auto;
@@ -15,16 +25,51 @@
     width: 50%;
     border: 3px solid green;
     padding: 10px;
+    background-color:lightgoldenrodyellow;
 }
 .form-control{
     margin: auto;
     width: 90%;
     border: 3px;
     padding: 10px;
+    background-color:lightgoldenrodyellow;
+    
 }
 .d-grid{
     margin: auto;
-    width: 50%;
+    width: 5%;
     border: 3px ;
     padding: 10px;
+}
+.image{
+    align-content: center;
+    width: 200px;
+    height: 220px;
+    margin: 100px auto;
+    position: relative;
+    
+    text-align: center;
+    
+}
+.link{
+    float: left;
+    clip-path: circle();
+}
+.link1{
+    float: right;
+    clip-path: circle();
+}
+
+h2{
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+}
+.col-md-9{
+    padding-top: 3%;
+}
+.form-data{
+    margin: auto;
+    /* text-align: center; */
+    border: solid 0.5px rgba(128, 128, 128, 0.5);
+    height: 80%;
+    padding: 5%;
 }
